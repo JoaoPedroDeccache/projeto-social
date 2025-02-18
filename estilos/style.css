@@ -34,7 +34,7 @@ iframe{
     position: relative;
     top: 80px;
     left: 22px;
-    width: 268px;
+    width: 266px;
     height: 472px;
     
 }
@@ -50,7 +50,7 @@ section#redes img{
     
 }
 section#redes img:hover{
-    border: 2px solid rgba(255, 255, 255, 0.615);
+    border: 2px solid rgb(255, 255, 255);
     transform: translate(-2px, -2px);
     transition: transform .3s;
 }
